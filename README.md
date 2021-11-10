@@ -1,7 +1,5 @@
 # AWS-BigData_py
-AWS EMR e Python
-Arquivos de configuração e execução de análise de dados.
-Extração e contagem de palavras em um dado arquivo (Livro The Adventures of Sherlock Holmes).
+AWS EMR e Python. Arquivos de configuração e execução de análise de dados. Extração e contagem de palavras em um dado arquivo (Livro The Adventures of Sherlock Holmes).
 
 ## Instruções
 
